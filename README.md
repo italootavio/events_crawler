@@ -3,7 +3,7 @@
 
 O programa é um Crawler que utiliza a Biblioteca Scrapy para obter dados de evento do site https://www.sympla.com.br.
 
-Para executar o código é necessário que possuir os pacotes do scrapy, sqlite3, protego e beautifulsoup4 instalados no python virtual environment.
+Para executar o código é necessário que possuir os pacotes do scrapy, sqlite3, protego e beautifulsoup4 instalados no python virtual environment. (instalar via requirements.txt, com o comando "pip install -r requirements.txt")
 
 A execução do cógido deve ser feita chamando o aquivo sympla.py utilizando o comando abaixo:
 
